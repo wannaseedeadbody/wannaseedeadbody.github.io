@@ -1,8 +1,10 @@
+import pkg from '../../package.json';
+
 function App() {
   return (
     <>
       <header className="header">
-        <a target="_self" href="https://wannaseedeadbody.github.io" className="logo header__logo">
+        <a target="_self" href={pkg.homepage} className="logo header__logo">
           OUTSIDEINSIDEOUT
         </a>
         <nav>
