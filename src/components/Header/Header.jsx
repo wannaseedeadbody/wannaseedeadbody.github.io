@@ -27,7 +27,7 @@ export default function Header() {
           </li>
         </ul>
       </nav>
-      <a href="https://calendar.yandex.ru" className="header__link">
+      <a href="https://calendar.yandex.ru" className="header__link header__link-special">
         Start project
       </a>
     </header>
