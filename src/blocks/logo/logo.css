@@ -1,0 +1,12 @@
+.logo {
+  background-color: #000;
+  appearance: none;
+  text-decoration-line: none;
+  color: #fff;
+
+  min-width: fit-content;
+
+  height: 76px;
+
+  padding: 40px 25px 15px 12px;
+}
